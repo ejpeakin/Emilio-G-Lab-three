@@ -24,7 +24,12 @@ x = int(input("enter first number :"))
 y = int(input("enter second number :"))
 
 ##############################################################################
-add(x,y)
-subtract(x,y)
-multiply(x,y)
-divide(x,y)
+add(6,7)
+subtract(6,7)
+multiply(6,7)
+divide(6,7)
+####################### CALCULATOR CODE ##################################
+print("whats good homeboy")
+print("what we doing")
+print("type (a)dd s(subtract) (m)ultiply (d)ivide (q)uit)")
+
